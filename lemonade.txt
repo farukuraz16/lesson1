@@ -2,4 +2,5 @@
 2. Water
 3. Sugar
 4. Mint
-5. Drink
+5. Mixed
+6. Add Ice
